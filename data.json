@@ -1,0 +1,12 @@
+{
+    "resource": "extract",
+    "path": "/extract",
+    "httpMethod": "POST",
+    "headers": {},
+    "queryStringParameters": {},
+    "pathParameters":  {},
+    "stageVariables": {},
+    "requestContext": {},
+    "body":"{\"text\":\"Nearly all applicants for US visas will have to submit their social media details under new rules by the State Department.The State Department regulations say people will have to submit social media names and five years' worth of email addresses and phone numbers.When proposed last year, authorities estimated the proposal would affect 14.7 million people annually. Certain diplomatic and official visa applicants will be exempt from the stringent new measures.However, people travelling to the US to work or to study will have to hand over their information, the BBC reported.We are constantly working to find mechanisms to improve our screening processes to protect US citizens, while supporting legitimate travel to the United States,the department reportedly said.Previously, only applicants who needed additional vetting - such as people who had been to parts of the world controlled by terrorist groups - would need to hand over this data.But now applicants will have to give up their account names on a list of social media platforms, and also volunteer the details of their accounts on any sites not listed.Anyone who lies about their social media use could face serious immigration consequences, according to an official.The Trump administration first proposed the rules in March 2018.At the time, the American Civil Liberties Union - a civil rights group - said there is no evidence that such social media monitoring is effective or fair, and said it would cause people to self-censor themselves online.US President Donald Trump made cracking down on immigration a key plank of his election campaign in 2016.He called for extreme vetting of immigrants before and during his time in office.\",\"hello\":\"world\"}",
+    "isBase64Encoded": "false"
+}
